@@ -263,6 +263,11 @@ nav {
     }
 }
 
+.fa-linkedin-in:hover, .fa-github:hover, .fa-envelope:hover, .fa-file-pdf:hover {
+    color: darkgray;
+    transition: all 300ms ease;
+}
+
 /*TECH - STACK */
 
 .language__img {
